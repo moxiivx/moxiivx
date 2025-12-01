@@ -17,7 +17,8 @@
 * **Oneplus 7 Pro** most soft bricked one
 * **Poco X3 Pro** unused
 * **vivo X90 Pro+** with broken ahh screen
- 
+* **Iphone XS** rarely used
+
 ### contact
 * **TG**: [@moxiuu0](https://t.me/moxiuu0)
 * **Email**: (it's on my profile anyway no reason to put it here)
