@@ -6,7 +6,7 @@
 
 ### about
 * i do **aosp** stuff
-* i love **bash**💖 || but i prefer **fish**🐟 i only like bash scripting
+* i love **bash**💖 || but i prefer **fish**🐟 as my primary shell, i only like **bash** scripting
 * **pronouns**: he/him
 * breaks and fixes hardware & stuff (mostly breaks)
 * **a53** bezt phone
