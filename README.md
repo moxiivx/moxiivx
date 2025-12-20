@@ -21,6 +21,7 @@
 
 ### contact
 * **TG**: [@moxiuu0](https://t.me/moxiuu0)
+* **Discord**: moxiu_cwl
 * **Email**: (it's on my profile anyway no reason to put it here)
 * **TG Group**: [@moxiu_roms](https://t.me/moxiu_roms)
 
