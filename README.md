@@ -33,6 +33,6 @@
 
 <td width="45%" valign="top" style="border: none;">
   <div align="right">
-    <img src="https://github.com/moxiivx/moxiivx2/blob/main/assets/images/photo_2025-12-27_23-36-30.jpg?raw=true" width="463" alt="Profile" style="border-radius: 10px;">
+    <img src="https://github.com/moxiivx/moxiivx/blob/main/assets/images/photo_2025-12-27_23-36-30.jpg?raw=true" width="458" alt="Profile" style="border-radius: 10px;">
   </div>
 </td>
