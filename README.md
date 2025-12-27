@@ -4,6 +4,9 @@
 
 <h3 align="center">~ huawei glazer ~</h3>
 
+<details>
+  <summary>more details about me</summary>
+  
 ### about
 * i do **aosp** stuff
 * i love **bash**💖 || but i prefer **fish**🐟 as my primary shell, i only like **bash** scripting
@@ -26,6 +29,7 @@
 * **TG Group**: [@moxiu_roms](https://t.me/moxiu_roms)
 
 > good aosp builds uhh idk maybe
+</details>
 
 </td>
 <td width="45%" valign="top">
