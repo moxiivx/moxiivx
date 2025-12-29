@@ -2,7 +2,7 @@
   <center>
 <h1 align="center">~ Hi i'm moxiu ~</h1>
 
-<h3 align="center">~ huawei glazer ~</h3>
+<h3 align="center">~ huawei & vivo glazer ~</h3>
 
 <details>
   <summary>more details about me</summary>
