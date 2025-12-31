@@ -31,8 +31,8 @@
 > good aosp builds uhh idk maybe
 </details>
 
-<td width="45%" valign="top" style="border: none;">
+<td width="50%" valign="top"">
   <div align="right">
-    <img src="https://github.com/moxiivx/moxiivx/blob/main/assets/images/photo_2025-12-27_23-36-30.jpg?raw=true" width="458" alt="Profile" style="border-radius: 10px;">
+    <img src="https://github.com/moxiivx/moxiivx/blob/main/assets/images/foto1.jpg?raw=true" width="825" height=166px ;">
   </div>
 </td>
