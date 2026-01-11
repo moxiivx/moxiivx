@@ -47,7 +47,7 @@
     <summary>more common methods</summary>
     <ul>
       <li><strong>my Ko-fi:</strong> <a href="https://ko-fi.com/moxiu">ko-fi.com/moxiu</a></li>
-      <li><strong>via TG stars:</strong> Contact <a href="https://t.me/moxiuu0">@moxiuu0</a> on Telegram</li>
+      <li><strong>via TG stars:</strong> u need to contact me<a href="https://t.me/moxiuu0">@moxiuu0</a> on TG</li>
     </ul>
   </details>
 </details>
