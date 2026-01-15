@@ -44,7 +44,7 @@
   </details>
 
   <details>
-    <summary>more common methods</summary>
+    <summary>other method</summary>
     <ul>
       <li><strong>via TG stars:</strong> u need to contact me<a href="https://t.me/moxiuu0">@moxiuu0</a> on TG</li>
     </ul>
