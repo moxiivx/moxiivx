@@ -33,7 +33,9 @@
 
 <details>
   <summary>how u can donate? here's how</summary>
-  
+
+<hr>
+
   <details>
     <summary>Crypto</summary>
     <ul>
@@ -44,9 +46,10 @@
   </details>
 
   <details>
-    <summary>other method</summary>
+    <summary>other methods</summary>
     <ul>
-      <li><strong>via TG stars:</strong> u need to contact me<a href="https://t.me/moxiuu0">@moxiuu0</a> on TG</li>
+      <li><strong>Gift me stars on tg:</strong><a href="https://t.me/moxiuu0"> @moxiuu0</a></li>
+      <li><strong>Donate me on Ko-fi:</strong><a href="https://ko-fi.com/moxiu"> @moxiu</a></li>
     </ul>
   </details>
 </details>
