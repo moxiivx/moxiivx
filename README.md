@@ -61,6 +61,6 @@
 
 <td width="50%" valign="top"">
   <div align="right">
-    <img src="https://github.com/moxiivx/moxiivx/blob/main/assets/images/foto1.jpg?raw=true" width="825" height=166px ;">
+    <img src="https://github.com/moxiivx/moxiivx/blob/main/assets/images/foto1.jpg?raw=true" width="845" height=166px ;">
   </div>
 </td>
