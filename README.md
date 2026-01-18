@@ -25,6 +25,7 @@
 ### contact
 * **TG**: [@moxiuu0](https://t.me/moxiuu0)
 * **Discord**: moxiu_cwl
+* **VK (ВКонтакте)**: [@moxiuu](https://vk.me/moxiuu)
 * **Email**: (it's on my profile anyway no reason to put it here)
 * **TG Group**: [@moxiu_roms](https://t.me/moxiu_roms)
 
@@ -43,6 +44,7 @@
       <li><strong>ETH:</strong> <code>0x2d75fD2F32B206479Bb0b373Ed2E1eF8E0a0BDc3</code></li>
       <li><strong>BTC:</strong> <code>bc1ptywgwk7y5lnnk0de3tcrc86vay6kg0z39k8sj4greldhp8k7682qs33ppf</code></li>
       <li><strong>HYPE:</strong> <code>0x2d75fd2f32b206479bb0b373ed2e1ef8e0a0bdc3</code></li>
+      <li><strong>TON:</strong> <code>UQCQ4ShMYcrriZOG3ZbSUiZVMusZN-d9CPrpiFSuwZmsSbFV</code></li>
     </ul>
   </details>
 
