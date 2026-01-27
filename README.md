@@ -50,7 +50,7 @@
   <details>
     <summary>other methods</summary>
     <ul>
-      <li><strong>Donate me on Ko-fi:</strong><a href="https://ko-fi.com/moxiu"> @moxiu</a></li>
+      <li><strong>Ko-fi:</strong><a href="https://ko-fi.com/moxiu"> @moxiu</a></li>
     </ul>
   </details>
 </details>
