@@ -39,10 +39,10 @@
   <details>
     <summary>Crypto</summary>
     <ul>
-      <li><strong>SOL:</strong> <code>CLGscHdJtajyJraJzzQG4otD6FvY9EKjLQetABjFw4eo</code></li>
-      <li><strong>ETH:</strong> <code>0x2d75fD2F32B206479Bb0b373Ed2E1eF8E0a0BDc3</code></li>
-      <li><strong>BTC:</strong> <code>bc1ptywgwk7y5lnnk0de3tcrc86vay6kg0z39k8sj4greldhp8k7682qs33ppf</code></li>
-      <li><strong>HYPE:</strong> <code>0x2d75fd2f32b206479bb0b373ed2e1ef8e0a0bdc3</code></li>
+      <li><strong>SOL:</strong> <code>9o6PwUdnrrfvBVu332zdt7zKxWGfzdWb4DyNCNfwAYfo</code></li>
+      <li><strong>ETH:</strong> <code>0x4544C690B07e2723a41B43E441c01f3f199cB06C</code></li>
+      <li><strong>BTC:</strong> <code>bc1q8vfxr8tnpq7twnxdtx3j87n2gts4ahdusr4wxy</code></li>
+      <li><strong>LTC:</strong> <code>ltc1qv8z0u4p00akqsfkz845lzd3tp6n2lmrtsy39vy</code></li>
       <li><strong>TON:</strong> <code>UQCQ4ShMYcrriZOG3ZbSUiZVMusZN-d9CPrpiFSuwZmsSbFV</code></li>
     </ul>
   </details>
@@ -50,7 +50,6 @@
   <details>
     <summary>other methods</summary>
     <ul>
-      <li><strong>Gift me stars on tg:</strong><a href="https://t.me/moxiuu0"> @moxiuu0</a></li>
       <li><strong>Donate me on Ko-fi:</strong><a href="https://ko-fi.com/moxiu"> @moxiu</a></li>
     </ul>
   </details>
